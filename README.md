@@ -1,2 +1,2 @@
 # hello-world
-I am new to GITHUB and so this is my first code to share. 
+I am a blogger, developer and efficient programmer.
